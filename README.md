@@ -16,6 +16,7 @@
 This course provides a basic introduction to the areas of mathematics most relevant to software engineers.
 
 * **Course Responsible:** [Richard Brooks](https://rbrooksdk.github.io), <rib@via.dk>
+* **Lecturer:** Frederik Thorning Bjørn, <frbj@via.dk>
 * **Credits:** 5 ECTS (European Credit Transfer System), equivalent to 130 working hours
 * **Level:** Bachelor
 * **Assessment:** 4-hour written exam in Flowlock (WiseFlow), graded according to the 7-point scale (see exam description in the menu at the top)
