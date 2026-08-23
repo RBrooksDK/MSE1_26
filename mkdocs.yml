@@ -1,0 +1,158 @@
+# Project information
+site_name: Mathematics for Software Engineering
+site_url: https://rbrooksdk.github.io/MSE1_26
+site_author: Richard Brooks
+site_description: Course page for Mathematics for Software Engineering at VIA University College
+docs_dir: .
+site_dir: ../site
+# Repository information
+repo_name: Github
+repo_url: https://github.com/RBrooksDK/MSE1_26
+
+# Copyright
+copyright: Copyright &copy; 2026 Richard Brooks
+
+# Configurations
+theme:
+  name: material
+  language: en
+  default_theme: default
+  # custom_dir: overrides
+  favicon: figures/vialogo_white.png
+  logo: figures/vialogo.png
+  icon:
+    repo: fontawesome/brands/github
+    annotation: material/chevron-right-circle
+  features:
+    - announce.dismiss
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.prune
+    # - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      accent: orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to light mode
+  font:
+    text: "VIA Type"
+    code: "Roboto Mono"
+
+plugins:
+  - same-dir
+  - blog
+  - search
+  - mkdocs_quiz:
+      lang: en
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/mkdocs.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/js/all.min.js
+
+extra:
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: material/email
+      link: mailto:rib@via.dk
+    - icon: fontawesome/brands/github
+      link: https://github.com/RBrooksDK/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rbrooks-dk/
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: README.md
+  - Sessions:
+    - Sessions/README.md
+    - 01 Basic Arithmetic and Functions: 01_Basic_Arithmetic_and_Functions/README.md
+    - 02 Numeral Systems: 02_Numeral_Systems/README.md
+    - 03 Set Theory: 03_Set_Theory/README.md
+    - 04 Combinatorics and Probability Theory: 04_Combinatorics_and_Probability_Theory/README.md
+    - 05 Conditional Probabilities and Bayes' Theorem: 05_Conditional_Probabilities_and_Bayes_Theorem/README.md
+    - 06 Descriptive Statistics: 06_Descriptive_Statistics/README.md
+    - 07 Introduction to Linear Algebra: 07_Introduction_to_Linear_Algebra/README.md
+    - 08 Vectors and Matrices: 08_Vectors_and_Matrices/README.md
+    - 09 Matrix Algebra and Determinants: 09_Matrix_Algebra_and_Determinants/README.md
+    - 10 Differentiation of Simple Functions: 10_Differentiation_of_Simple_Functions/README.md
+    - 11 Gradients and Partial Derivatives: 11_Gradients_and_Partial_Derivatives/README.md
+    - 12 Conclusion and Q&A Session: 12_Conclusion_and_QA_Session/README.md
+  - Online Resources: pages/online_resources.md
+  - General Resources MSE: https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EkY5lwozszRJnbJgB_n-lewBk-kr4paiBE_u5kxs8j6VTQ?e=rl1uyb
+  - Exam: pages/exam.md
+  - FAQ: pages/faq.md
+  - About: https://rbrooksdk.github.io
