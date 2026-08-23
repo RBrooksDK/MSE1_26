@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">Mathematics for Software Engineering - 2026</h1>
-    <p align="center">Course page for <a href="https://en.via.dk/tmh-courses/mathematics-for-software-engineering?education=ict">MSE1</a> at VIA</p>
+    <p align="center">Course page for <a href="https://my.via.dk/media/mitvia/semesteroverblik/kursusbeskrivelser/software-engineering/1.-semester/it-mse1-6-0">MSE1</a> at VIA</p>
     <p align="center"><strong><a href="https://rbrooksdk.github.io/MSE1_26">Checkout the homepage!</a></strong></p>
 </p>
 
@@ -33,85 +33,6 @@ The course starts in week 36 and ends 13 weeks later, with no classes in week 42
 
 There are no mandatory submissions, though there will be other mandatory course activities.
 
-## <i class="fas fa-users" style="color:#6CA2C6"></i> About Us
-
-<div class="grid cards" markdown>
-
-- <img src="figures/IMG_20220925_112931_Bokeh.jpg" alt="Richard Brooks" style="height:120px;width:120px;float:right;border-radius:50%;object-fit:cover;">
-
-    **Richard Brooks**  
-    Associate Professor  
-
-    Teaches: DK  
-    Contact: [:material-email:](mailto:rib@via.dk)
-
-- <img src="figures/1644852387437.jpg" alt="Navn" style="height:120px;width:120px;float:right;border-radius:50%;object-fit:cover;">
-
-    **Markéta Tranberg**  
-    Part-Time Lecturer
-
-    Teaches: X, Y, and DK 
-    Contact: [:material-email:](mailto:mlap@via.dk)
-
-- <img src="figures/eddie.jpg" alt="Navn" style="height:120px;width:120px;float:right;border-radius:50%;object-fit:cover;">
-
-    **Eduard Fekete**  
-    TA
-
-    Teaches: Y     
-    Contact: [:material-email:](mailto:355323@via.dk)
-
-
-
-- <img src="figures/carolina.jpg" alt="Navn" style="height:120px;width:120px;float:right;border-radius:50%;object-fit:cover;">
-
-    **Carolina Zavidei**  
-    TA
-
-    Teaches: X   
-    Contact: [:material-email:](mailto:354825@via.dk)
-</div>
-
-<style>
-.instructor-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr !important; /* Force exactly 2 columns */
-  gap: 2rem;
-  margin: 2rem auto;
-  max-width: 800px; /* Prevents grid from stretching too wide */
-}
-@media (max-width: 700px) {
-  .instructor-grid {
-    grid-template-columns: 1fr !important;
-    max-width: 95vw;
-  }
-}
-.instructor-card {
-  background: rgba(20,30,40,0.15);
-  border-radius: 1.2rem;
-  padding: 1.2rem;
-  text-align: center;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.instructor-card img {
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  border-radius: 50%;
-  margin-bottom: 1rem;
-}
-.instructor-info a {
-  text-decoration: none;
-}
-.instructor-info a:hover {
-  text-decoration: underline;
-}
-
-</style>
-
 ## <i class="fas fa-wave-square" style="color:#6CA2C6"></i> Course Content and Learning Objectives
 
 The course focuses on the application of mathematical concepts and methods in software development and computer science:
@@ -132,12 +53,6 @@ The course focuses on the application of mathematical concepts and methods in so
 
 **Exercises:** Available for each session and can be found under "Sessions" in the menu at the top.
 
-Non-session specific resources such as old exam cases, solutions, etc. can be found here:
-
-[General Resources MSE](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EkY5lwozszRJnbJgB_n-lewBk-kr4paiBE_u5kxs8j6VTQ?e=rl1uyb)
-
-This folder is always accessible in the menu at the top.
-
 ---
 
 **Other Online Resources:** We have linked to several online materials, which can be found in the Online Resources tab in the menu at the top. These are not mandatory.
@@ -147,30 +62,3 @@ This folder is always accessible in the menu at the top.
 ---
 
 The Wiseflow code for all flows used during the course is always 0000. However, this is not the code for the exam in January.
-
----
-
-## <i class="fa fa-history" style="color:#6CA2C6"></i> Historical Notes
-
-Mathematics for Software Engineering was first offered in 2017 and is taught once a year. The course responsible is [Richard Brooks (RIB)](https://rbrooksdk.github.io).
-
-<center>
-  <h3 align="center">Grade Distribution 2025 (only regular exam)</h3>
-    <table>
-      <thead>
-        <tr>
-          <th style="text-align:center;">Grade</th>
-          <th style="text-align:center;">Count</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr><td style="text-align:center;">12</td><td style="text-align:center;">10</td></tr>
-        <tr><td style="text-align:center;">10</td><td style="text-align:center;">13</td></tr>
-        <tr><td style="text-align:center;">7</td><td style="text-align:center;">25</td></tr>
-        <tr><td style="text-align:center;">4</td><td style="text-align:center;">15</td></tr>
-        <tr><td style="text-align:center;">02</td><td style="text-align:center;">12</td></tr>
-        <tr><td style="text-align:center;">00</td><td style="text-align:center;">18</td></tr>
-        <tr><td style="text-align:center;">-3</td><td style="text-align:center;">1</td></tr>
-      </tbody>
-    </table>
-</center>

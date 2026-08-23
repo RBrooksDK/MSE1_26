@@ -6,7 +6,7 @@
     Yes, you are looking at it right now! This FAQ is designed to answer some of the most common questions about the course. If you have a question that is not answered here, feel free to contact the course coordinator, [Richard Brooks](mailto: rib@via.dk).
 
 ??? question "What is the course about?"
-    The course covers an introduction to selected topics in mathematics that are particularly relevant for software engineers. A detailed description can be found in the [course description](https://en.via.dk/tmh-courses/mathematics-for-software-engineering?education=ict) or by reviewing the description of each session in the Sessions menu.
+    The course covers an introduction to selected topics in mathematics that are particularly relevant for software engineers. A detailed description can be found in the [course description](https://my.via.dk/media/mitvia/semesteroverblik/kursusbeskrivelser/software-engineering/1.-semester/it-mse1-6-0) or by reviewing the description of each session in the Sessions menu.
 
 ??? question "How does the course relate to the curriculum?"
     The course primarily relates to the curriculum by providing a foundation for understanding and applying mathematics in an engineering context, especially within data science, machine learning, and computer graphics.
@@ -15,7 +15,7 @@
     It is important that you have a basic understanding of mathematics and algebra, as the course builds on these topics. It is recommended to have completed high school mathematics, especially topics such as functions, equations, and basic algebra.
 
 ??? question "Is attendance mandatory?"
-    Yes, the course has a mandatory attendance policy which means you will be unable to attend the exam if your attendance surpasses 25%.
+    Yes. To sit the exam, you must have at least 75% attendance. If you do not meet this requirement, you cannot attend the regular exam, but you may qualify for the re-exam by submitting a written assignment in WISEflow. See the "Exam" section in the menu at the top for details.
     
 
 ---
@@ -85,7 +85,7 @@
     Yes, I recommend following the study plan described in the course material. You can find the study plan in the course material by navigating the menu above.
 
 ??? question "Where can I find materials such as past exam sets, solutions, and other resources?"
-    You can find all materials by navigating the menu at the top, see "General Resources MSE".
+    You can find materials by navigating the Sessions menu and the Online Resources section in the menu at the top.
 
 ??? question "Are there additional resources?"
     Yes, there are many additional resources available online. Please also see the Online Resources section in the menu at the top.

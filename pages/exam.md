@@ -1,7 +1,12 @@
 <h1 align="center">Exam</h1>
 
-### Exam prerequisites: 
-None
+### Exam prerequisites:
+
+<ul>
+<li>Attendance (≥ 75%)</li>
+</ul>
+
+If the exam prerequisite is not met, the student must submit a written assignment in WISEflow to qualify for re-exam.
 
 ### Exam type
 The exam is a single 4-hour written exam conducted in the Flowlock environment in WiseFlow.
