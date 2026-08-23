@@ -20,7 +20,21 @@ tags:
 
 In this session, we delve into number systems and their fundamental importance in software development. We begin by exploring the world of numbers, from basic number theory to the various number systems that form the foundation of modern computing. We focus particularly on binary, decimal, and hexadecimal notation, which are essential in programming and computer architecture.
 
-The session includes a thorough review of number conversion between different systems, binary addition and multiplication, as well as positional notation. Special emphasis is placed on binary operations and hexadecimal notation, as these play a crucial role in software development, data representation, and digital electronics.
+The session includes a thorough review of number conversion between different systems, binary addition and multiplication, as well as positional notation. Special emphasis is placed on binary operations and hexadecimal notation, as these play a crucial role in software development, data representation, and digital electronics. The exercises include conversions between binary, decimal, octal, and hexadecimal, binary arithmetic, and more advanced applications such as base32 encoding and information storage.
+
+#### Key Concepts
+
+- Positional notation and number systems (binary, decimal, octal, hexadecimal)
+- Conversion between number bases
+- Binary addition and multiplication
+- Representation of data in software and digital systems
+
+!!! tip "Learning Objectives"
+
+    - Convert numbers between binary, decimal, octal, and hexadecimal.
+    - Perform binary addition and multiplication correctly.
+    - Explain why different number bases are used in computing.
+    - Apply number-base ideas to practical encoding and storage problems.
 
 <hr/>
 
@@ -28,10 +42,9 @@ The session includes a thorough review of number conversion between different sy
 
 Brooks: [Chapter 2](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/master/main.pdf).
 
-### Resources Danish Class
-[Lecture notes](https://drive.google.com/file/d/1Ld5qGjQet-Ie8ka6PYilFxHkpzpa-ndP/view?usp=sharing)
+### Resources
 
-[Session materials](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqAdL2IjxBJIuhBYvL12T8QBaS3fV4FBRbkdF18Koob8sQ?e=HyRXPM)
+[Session Resources]()
 
 <hr/>
 

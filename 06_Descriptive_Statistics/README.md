@@ -9,17 +9,42 @@ tags:
     - Mean
     - Median
     - Mode
-    - Range
     - Variance
     - Standard Deviation
+    - Quartiles
+    - IQR
     - Discrete Data
     - Continuous Data
     - Qualitative Data
     - Quantitative Data
-    - Data Types 
+    - Histograms
+    - Ogive
+    - Box Plots
+    - Empirical Rule
 ---
 
 <h1 align="center">Descriptive Statistics</h1>
+
+In this session, we explore descriptive statistics and its importance for data analysis and software development. We define measures of central tendency and spread, including mean, median, and mode, which are essential for understanding data and its properties.
+
+The session covers variance, standard deviation, quartiles, and visual summaries using histograms, ogives, and box plots. Several exercises use Python, pandas, and matplotlib to compute summaries, interpret distributions, and apply the empirical rule. These tools are central to data analysis, machine learning, and quality control in software engineering.
+
+#### Key Concepts
+
+- Measures of central tendency: mean, median, and mode
+- Measures of spread: variance, standard deviation, and quartiles
+- Data types: qualitative, quantitative, discrete, and continuous
+- Visual summaries: histograms, ogives, and box plots
+
+!!! tip "Learning Objectives"
+
+    - Classify data and choose appropriate summary statistics.
+    - Compute and interpret mean, median, mode, variance, and standard deviation.
+    - Read and interpret histograms, ogives, and box plots.
+    - Use Python to summarise and visualise datasets.
+    - Apply the empirical rule to assess whether data appear normally distributed.
+
+<hr/>
 
 ### Session Preparation:
 
@@ -27,15 +52,15 @@ Brooks: [Chapter 6](https://docs.google.com/viewer?url=https://raw.githubusercon
 
 Some of the exercises may require you to use Python. You may also need to install the `pandas` and `matplotlib` libraries if you haven't already.
 
-### Resources Danish Class:
+### Resources
 
-[Session notes](https://drive.google.com/file/d/1wAMVD7qDRDlnW3YCHzxZjgo79k14Z6uz/view?usp=sharing)
-
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqVVdPEDkRFImG2F_pAn4C8BaNKeMesysbj3eFJqsKHllw?e=0fiXyu)
+[Session Resources]()
 
 ### Python Solution
 
 [solutions06.ipynb](https://github.com/RBrooksDK/MSE1_26/blob/main/06_Descriptive_Statistics/solutions06.ipynb)
+
+<hr/>
 
 ### Exercises
 

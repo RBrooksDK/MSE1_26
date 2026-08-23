@@ -16,7 +16,22 @@ tags:
 <h1 align="center">Basic Arithmetic and Functions</h1>
 In this introductory session, we lay the foundation for the mathematics used in software development. We begin with an overview of the course structure, learning objectives, and expectations. Then, we focus on key arithmetic rules and the fundamental properties of functions, which form the basis for the more advanced topics covered later in the course.
 
-The session includes understanding and applying rules of powers, roots, exponents, and logarithms. We also explore the definition of functions as well as their domains and ranges. Finally, we introduce the concepts of inverse and composite functions, which are essential for further work in the course. Special emphasis is placed on logarithms and their applications in software development, as they play a central role in many algorithms and data processing methods.
+The session includes understanding and applying rules of powers, roots, exponents, and logarithms. We also explore the definition of functions as well as their domains and ranges. Finally, we introduce the concepts of inverse and composite functions, which are essential for further work in the course. Special emphasis is placed on logarithms and their applications in software development, as they play a central role in many algorithms and data processing methods. The exercises practise solving equations with logarithms and exponentials, analysing domains and ranges, composing and inverting functions, and reasoning about invertibility.
+
+#### Key Concepts
+
+- Arithmetic rules for powers, roots, exponents, and logarithms
+- Functions, domain, and range
+- Inverse and composite functions
+- Logarithms in algorithms and data processing
+
+!!! tip "Learning Objectives"
+
+    - Apply arithmetic rules to simplify expressions and solve equations.
+    - Determine the domain and range of common functions.
+    - Construct and evaluate composite functions.
+    - Find and interpret inverse functions.
+    - Explain why logarithms are useful in software engineering contexts.
 
 <hr/>
 
@@ -24,10 +39,9 @@ The session includes understanding and applying rules of powers, roots, exponent
 
 Brooks: [Chapter 1](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/master/main.pdf).
 
-### Resources Danish Class
-[Lecture notes](https://drive.google.com/file/d/1b4RxsUGG_Mwa5OHSsLZ1Xymlc0V2cLcc/view?usp=sharing)
+### Resources
 
-[Session materials](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtdW6vDKB6FHsPZdtO6XUhMB5n3uwC00IoyfXj5g1O6JlA?e=HPKxg0)
+[Session Resources]()
 
 <hr/>
 

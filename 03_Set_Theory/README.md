@@ -20,7 +20,24 @@ tags:
 
 <h1 align="center">Set Theory</h1>
 
-In this session, we cover the basics of set theory, including different ways to describe sets, fundamental set operations, and important properties and laws governing sets. 
+In this session, we explore set theory and its fundamental role in mathematics and software development. We begin by defining sets and their properties, including union, intersection, and complement. These operations form the basis for data structures and algorithms used in modern programming.
+
+The session includes a thorough review of set operations, Venn diagrams, and cardinality. We also examine subsets, the universal set, and the empty set. The exercises extend this to power sets, set identities, membership tables, and Cartesian products, including applications such as encoding sets as bitsets. Special emphasis is placed on how set operations appear in database theory, algorithm design, and logical programming.
+
+#### Key Concepts
+
+- Sets, subsets, and cardinality
+- Union, intersection, complement, and set difference
+- Venn diagrams and set identities
+- Power sets, Cartesian products, and bitsets
+
+!!! tip "Learning Objectives"
+
+    - Represent sets using roster and set-builder notation.
+    - Perform standard set operations and interpret their results.
+    - Use Venn diagrams and membership tables to analyse relationships between sets.
+    - Compute cardinality and power sets.
+    - Relate set operations to software concepts such as bitsets and data filtering.
 
 <hr/>
 
@@ -28,10 +45,9 @@ In this session, we cover the basics of set theory, including different ways to 
 
 Brooks: [Chapter 3](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/master/main.pdf).
 
-### Resources Danish Class
-[Lecture notes](https://viaucdk-my.sharepoint.com/:p:/g/personal/rib_viauc_dk/ETMONT97hChAg-qC90Qg6bwBwahu861wHnFZYHlY-gWz_Q?e=9g2m6E)
+### Resources
 
-[Session materials](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Esf4RiApcghJpRmy7bEe1G8B_1Ljm4UIQ35KHm9GY7qCWw?e=rmZmWy)
+[Session Resources]()
 
 <hr/>
 

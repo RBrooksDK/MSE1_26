@@ -1,15 +1,40 @@
 ---
 tags:
-    - Linear algebra
-    - Systems of linear equations
-    - Row reduction
-    - Echelon form
-    - Reduced row echelon form
-    - Matrix operations
+    - Linear Algebra
+    - Systems of Linear Equations
     - Matrices
+    - Augmented Matrices
+    - Elementary Row Operations
+    - Echelon Form
+    - Reduced Row-Echelon Form
+    - Row Reduction
+    - Pivot Positions
+    - Basic Variables
+    - Free Variables
 ---
 
 <h1 align="center">Introduction to Linear Algebra</h1>
+
+In this session, we study systems of linear equations and their central role in software development and data science. We define linear equations and systems and show how they model problems ranging from economic models to modern intelligent systems.
+
+The session explains how matrices represent and solve linear systems efficiently. We introduce coefficient and augmented matrices, elementary row operations, echelon and reduced row-echelon form, and the row-reduction algorithm. Particular attention is given to interpreting solution sets: unique solutions, infinitely many solutions, and inconsistent systems, using pivot positions, basic variables, and free variables.
+
+#### Key Concepts
+
+- Systems of linear equations and augmented matrices
+- Elementary row operations
+- Echelon form and reduced row-echelon form
+- Pivot positions, basic variables, and free variables
+
+!!! tip "Learning Objectives"
+
+    - Represent linear systems using augmented matrices.
+    - Apply row operations to reach echelon and reduced echelon form.
+    - Identify pivot positions and distinguish basic from free variables.
+    - Determine whether a system has a unique, infinite, or no solution.
+    - Express general solutions to linear systems in parametric form.
+
+<hr/>
 
 ### Session Preparation:
 
@@ -17,11 +42,11 @@ Brooks: [Chapter 7](https://docs.google.com/viewer?url=https://raw.githubusercon
 
 Some of the exercises may require you to use Python. You may also need to install the `numpy` and `sympy` libraries if you haven't already.
 
-### Resources Danish Class:
+### Resources
 
-[Session notes](https://drive.google.com/file/d/1pfrbRf2fb2jAqhIg1xhlJw0KHmDjXqds/view?usp=sharing)
+[Session Resources]()
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EkjUOJhNa7lFscFUs9rWtwsB_2p-THcKaRcRj3M3LYR99g?e=LzRrSp)
+<hr/>
 
 ### Exercises
 

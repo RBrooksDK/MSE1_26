@@ -1,19 +1,39 @@
 ---
 tags:
-    - Linear algebra
-    - Systems of linear equations
-    - Matrix operations
-    - Matrices
-    - Linear transformations    
+    - Matrix Algebra
+    - Invertible Matrices
+    - Matrix Inverse
+    - Matrix Multiplication
+    - Transpose
+    - Matrix Powers
+    - Invertible Matrix Theorem
+    - Matrix Addition
+    - Scalar Multiplication
     - Determinants
-    - Matrix inverses
-    - Vector spaces
-    - Span
-    - Linear independence
-    - Invertible matrices
 ---
 
 <h1 align="center">Matrix Algebra and Determinants</h1>
+
+In this session, we study the core ideas of matrix algebra. We begin with special matrices such as diagonal, zero, and identity matrices, and learn scalar multiplication, matrix addition, and matrix multiplication using both the definition and the row-column rule. We also cover matrix powers and transposes, and explore properties summarised by the Invertible Matrix Theorem.
+
+The exercises focus on computing inverses, solving systems using $A^{-1}$, reasoning about invertibility and pivots, and working with determinants of $2\times2$ matrices. Together, these tools provide the algebraic foundation needed for the linear algebra applications encountered later in the course and in software engineering.
+
+#### Key Concepts
+
+- Matrix addition, scalar multiplication, and multiplication
+- Transpose and matrix powers
+- Invertible matrices and the Invertible Matrix Theorem
+- Determinants of $2\times2$ matrices
+
+!!! tip "Learning Objectives"
+
+    - Perform matrix arithmetic using correct dimensions and rules.
+    - Compute transposes and matrix products.
+    - Determine whether a matrix is invertible and find its inverse when possible.
+    - Use determinants and inverses to solve matrix equations.
+    - Apply matrix algebra to solve systems of linear equations.
+
+<hr/>
 
 ### Session Preparation
 
@@ -21,11 +41,11 @@ Brooks: [Chapter 9](https://docs.google.com/viewer?url=https://raw.githubusercon
 
 Some of the exercises may require you to use Python. You may also need to install the `numpy` and `sympy` libraries if you haven't already.
 
-### Resources Danish Class:
+### Resources
 
-[Session notes](https://drive.google.com/file/d/1RLzR80FeGefbyzGPFUZVl9VEfhV6mubz/view?usp=sharing)
+[Session Resources]()
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EpGNNUp8hjpPn6niIxD8hT4BdSOLqNwtdY91GTRCdj7D_g?e=I0l1b5)
+<hr/>
 
 ### Exercises
 

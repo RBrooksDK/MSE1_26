@@ -1,4 +1,42 @@
+---
+tags:
+    - Differentiation
+    - Limits
+    - Derivatives
+    - Differentiation Rules
+    - Chain Rule
+    - Product Rule
+    - Quotient Rule
+    - Power Rule
+    - Exponential Functions
+    - Logarithmic Functions
+    - Tangent Lines
+    - Velocity
+    - Acceleration
+---
+
 <h1 align="center">Differentiation of Simple Functions</h1>
+
+In this session, we introduce differentiation and its fundamental role in mathematical analysis and software development. We begin with the derivative and its geometric meaning as the slope of the tangent line, which is essential for optimisation problems and algorithm analysis.
+
+The session covers differentiation rules including the chain, product, and quotient rules, as well as derivatives of exponential and logarithmic functions. The exercises move from limits and basic derivatives to more advanced rules and applications such as velocity and acceleration. Special emphasis is placed on how differentiation supports machine learning, optimisation, and numerical methods.
+
+#### Key Concepts
+
+- Limits and the derivative as rate of change
+- Differentiation rules: power, product, quotient, and chain rules
+- Derivatives of exponential and logarithmic functions
+- Applications to motion and optimisation
+
+!!! tip "Learning Objectives"
+
+    - Evaluate limits and interpret the derivative geometrically.
+    - Differentiate functions using standard rules.
+    - Apply the product, quotient, and chain rules correctly.
+    - Find derivatives of exponential and logarithmic functions.
+    - Use differentiation to analyse velocity, acceleration, and rates of change.
+
+<hr/>
 
 ### Session Preparation
 
@@ -6,11 +44,11 @@ Brooks: [Chapter 10](https://docs.google.com/viewer?url=https://raw.githubuserco
 
 Some of the exercises may require you to use Python. You may also need to install the `numpy` and `sympy` libraries if you haven't already.
 
-### Resources Danish Class:
+### Resources
 
-[Session notes](https://drive.google.com/file/d/1TBKqEzJ85hpuwXKSoilDalk2qwhHruod/view?usp=sharing)
+[Session Resources]()
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/IgCpfSdLLHdeR7pslljlUrhKAXJzbe5-r_AD2M2xDyqvJL8?e=4m0Pmf)
+<hr/>
 
 ### Exercises
 

@@ -7,13 +7,30 @@ tags:
     - Independent Events
     - Contingency Tables
     - Intersection of Events
-    - Stochastic Processes
+    - Total Probability
+    - Medical Testing
 ---
 
 <h1 align="center">Conditional Probability and Bayes' Theorem</h1>
 
-This session extends the introductory probability framework to dependent events and conditional reasoning.  
-We analyse how the occurrence of one event affects another, use contingency tables for joint distributions, and apply Bayes' theorem to update beliefs with new evidence.
+Building on the introduction to probability, this session explores dependent and independent events and how the occurrence of one event can affect another. We introduce conditional probability and show how probabilities change when additional information is known.
+
+We also work with the intersection of events, contingency tables for organising joint data, and Bayes' theorem as a tool for updating probabilities in light of new evidence. The exercises include die rolls, Venn diagrams, survey data, medical testing, and classic challenge problems such as the Monty Hall problem.
+
+#### Key Concepts
+
+- Conditional probability and independence
+- Intersection and union of events
+- Contingency tables and joint distributions
+- Bayes' theorem and updating probabilities
+
+!!! tip "Learning Objectives"
+
+    - Compute conditional probabilities from given information.
+    - Determine whether events are independent.
+    - Organise and interpret data using contingency tables.
+    - Apply Bayes' theorem to update probabilities in practical scenarios.
+    - Solve applied problems involving medical testing and decision-making under uncertainty.
 
 <hr/>
 
@@ -21,11 +38,9 @@ We analyse how the occurrence of one event affects another, use contingency tabl
 
 Brooks: [Chapter 5](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/master/main.pdf)
 
-### Resources Danish Class:
+### Resources
 
-[Session notes](https://drive.google.com/file/d/1p8sb7E8Jtdxg6Im1Ve_ylGq-zS6pSBXW/view?usp=sharing)
-
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/El6TyZ3UNqZDmv4WaAnaxdQBqhXftjEPeBzsfKRGOU6lDg?e=1th9TB)
+[Session Resources]()
 
 ### Some Python Solutions
 

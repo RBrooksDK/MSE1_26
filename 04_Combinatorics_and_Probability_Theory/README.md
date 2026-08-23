@@ -11,16 +11,31 @@ tags:
   - Probability of Events
   - Complements
   - Union
-  - Conditional Probability
+  - Independent Events
+  - Birthday Problem
   - Poker Hands
   - Passwords
 ---
 
 <h1 align="center">Combinatorics and Probability Theory</h1>
 
-This session explores the principles of counting and the foundations of probability theory.  
-We work with the multiplication rule, permutations and combinations, and classical probability of events.  
-We also introduce conditional probability and non-trivial applications that illustrate the depth of these concepts.
+In this session, we explore the fundamental principles of combinatorics and probability theory. We study the multiplication rule for counting outcomes in complex situations, and cover permutations and combinations, both with and without replacement. This gives a solid foundation for calculating arrangements and selections in software-related problems.
+
+We also introduce core probability concepts: experiments and sample spaces, probabilities of events, and probabilities of complements, unions, and differences of events. The exercises apply these ideas to passwords, poker hands, urn models, and classic problems such as the birthday paradox and coupon collector.
+
+#### Key Concepts
+
+- Counting principles: multiplication rule, permutations, and combinations
+- Sample spaces and events
+- Classical probability, complements, and unions
+- Applications to passwords, games of chance, and urn models
+
+!!! tip "Learning Objectives"
+
+    - Count outcomes using permutations and combinations, with and without replacement.
+    - Define sample spaces and compute probabilities of events.
+    - Apply the multiplication and addition rules in practical counting problems.
+    - Solve applied probability problems such as password security and the birthday paradox.
 
 <hr/>
 
@@ -28,11 +43,9 @@ We also introduce conditional probability and non-trivial applications that illu
 
 Brooks: [Chapter 4](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/master/main.pdf)
 
-### Resources Danish Class:
+### Resources
 
-[Session notes](https://drive.google.com/file/d/1710cNAHfeL6USrecEIo6Nk40zcYunUc0/view?usp=sharing)
-
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EsJDXlP48H5Nnak20uj9FMYBWN_47BOjpk_K1Lso5NxBoA?e=tLwBfI)
+[Session Resources]()
 
 <hr/>
 

@@ -1,17 +1,50 @@
+---
+tags:
+    - Gradients
+    - Partial Derivatives
+    - Multivariable Functions
+    - Gradient Vector
+    - Stationary Points
+    - Second Derivative Test
+    - Local Extrema
+    - Saddle Points
+    - Optimisation
+    - Gradient Descent
+---
+
 <h1 align="center">Gradients and Partial Derivatives</h1>
+
+In this session, we explore gradients and partial derivatives and their importance for multivariable functions and optimisation problems. We define partial derivatives and the gradient vector, which are essential for understanding functions of several variables and their use in machine learning and optimisation.
+
+We also introduce local extrema, saddle points, and the second-derivative test, and connect these ideas to gradient descent. The exercises include finding stationary points, computing partial derivatives and gradients, and interpreting what the gradient tells us about the direction of steepest increase. These concepts play a central role in machine learning algorithms, neural networks, and numerical optimisation.
+
+#### Key Concepts
+
+- Functions of several variables
+- Partial derivatives and the gradient vector
+- Stationary points and the second-derivative test
+- Gradient descent and optimisation
+
+!!! tip "Learning Objectives"
+
+    - Compute partial derivatives of multivariable functions.
+    - Find and interpret gradient vectors.
+    - Identify stationary points and classify them using the second-derivative test.
+    - Explain the role of the gradient in optimisation and gradient descent.
+    - Apply these ideas to simple optimisation problems.
+
+<hr/>
 
 ### Session Preparation:
 
 Brooks: [Section 10.5. + Chapter 11](https://drive.google.com/file/d/1P9eidJb5qtlZgvHCtqu4uuPa5FFU0Zpn/view?usp=sharing). You should begin reading before class as it will aid your understanding as the topics get more complex
 
-### Resources:
+### Resources
 
-[Session notes DK](https://drive.google.com/file/d/1_H8debXMq4hjruRW1ALZTlinzRa1tWKj/view?usp=sharing)
+[Session Resources]()
 
-[Session notes EN](https://drive.google.com/file/d/16s5bLzISjTxl1tpbwGTu5YndUaxoi9fq/view?usp=sharing)
 
-[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/IgB8BiMdzzbiR5g5Y49K-TzrAdo-Z-ufFcXKq8NLNolXM50?e=O0FY6T)
-
+<hr/>
 
 ### Exercises
 
