@@ -1,43 +1,47 @@
 ---
 tags:
     - Introduction
-    - Arithmetic Rules
-    - Powers
-    - Roots
-    - Exponents
-    - Logarithms
     - Functions
     - Domain
     - Range
     - Inverse Functions
     - Composite Functions
+    - Injective Functions
+    - Surjective Functions
+    - Exponential Functions
+    - Logarithms
 ---
 
-<h1 align="center">Basic Arithmetic and Functions</h1>
-In this introductory session, we lay the foundation for the mathematics used in software development. We begin with an overview of the course structure, learning objectives, and expectations. Then, we focus on key arithmetic rules and the fundamental properties of functions, which form the basis for the more advanced topics covered later in the course.
+<h1 align="center">Functions</h1>
 
-The session includes understanding and applying rules of powers, roots, exponents, and logarithms. We also explore the definition of functions as well as their domains and ranges. Finally, we introduce the concepts of inverse and composite functions, which are essential for further work in the course. Special emphasis is placed on logarithms and their applications in software development, as they play a central role in many algorithms and data processing methods. The exercises practise solving equations with logarithms and exponentials, analysing domains and ranges, composing and inverting functions, and reasoning about invertibility.
+In this introductory session, we work with **functions** — one of the most important ideas in mathematics and in software development. A function takes an input from a set called the **domain** and assigns it exactly one output from a set called the **co-domain**. The set of outputs that actually occur is called the **range**.
+
+We write functions using notation such as $f(x)$ or $g(t)$, and we describe them with expressions, tables, or graphs. You will learn to identify the domain and range of common functions, combine functions through **composition** ($f(g(x))$), and find **inverse** functions that undo the original mapping. We also look at whether a function is **one-to-one** (injective) or **onto** (surjective), and when an inverse exists.
+
+Several standard function types appear throughout the course: linear, quadratic, power, exponential, and logarithmic functions. Exponential functions model growth and decay — for example, population growth or compound interest — while logarithms are the inverse of exponentiation and appear whenever we need to solve equations involving powers or analyse quantities that span many orders of magnitude.
 
 #### Key Concepts
 
-- Arithmetic rules for powers, roots, exponents, and logarithms
-- Functions, domain, and range
+- Functions, domain, co-domain, and range
+- One-to-one (injective) and onto (surjective) functions
 - Inverse and composite functions
-- Logarithms in algorithms and data processing
+- Linear, quadratic, power, and exponential functions
+- Logarithms and their relationship to exponentiation
 
 !!! tip "Learning Objectives"
 
-    - Apply arithmetic rules to simplify expressions and solve equations.
+    - Define a function and use correct domain, co-domain, and range terminology.
     - Determine the domain and range of common functions.
     - Construct and evaluate composite functions.
-    - Find and interpret inverse functions.
-    - Explain why logarithms are useful in software engineering contexts.
+    - Find and interpret inverse functions, and decide when a function is invertible.
+    - Recognise standard function types from their graphs and expressions.
+    - Apply logarithms and exponentials in equations and simple growth models.
 
 <hr/>
 
 ### Session Preparation:
 
-Brooks: [Chapter 1](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/master/main.pdf).
+Review the key concepts above and work through the Math Kickstarter material on [Basic Arithmetic and Equations](https://rbrooksdk.github.io/math_kickstarter/basic_arithmetic_and_equations/) if you need to refresh your arithmetic skills before the exercises.
 
 ### Resources
 

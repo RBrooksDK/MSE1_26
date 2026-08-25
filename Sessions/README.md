@@ -6,13 +6,13 @@ Click on a session in the top menu (or below) to access a plan of a specific ses
 
 | Session | Week                | Topic                        |
 | ------- | :----:              | ---------------------------- |
-| 01      | Week 36             | [Basic Arithmetic and Functions](/MSE1_26/01_Basic_Arithmetic_and_Functions/) |
+| 01      | Week 36             | [Functions](/MSE1_26/01_Functions/) |
 | 02      | Week 37             | [Numeral Systems](/MSE1_26/02_Numeral_Systems/) |
 | 03      | Week 38             | [Set Theory](/MSE1_26/03_Set_Theory/) |
 | 04      | Week 39             | [Combinatorics and Probability Theory](/MSE1_26/04_Combinatorics_and_Probability_Theory/) |
 | 05      | Week 40             | [Conditional Probabilities and Bayes' Theorem](/MSE1_26/05_Conditional_Probabilities_and_Bayes_Theorem/) |
 | 06      | Week 41             | [Descriptive Statistics](/MSE1_26/06_Descriptive_Statistics/) |
-| 07      | Week 42             | [Introduction to Linear Algebra](/MSE1_26/07_Introduction_to_Linear_Algebra/) |
+| 07      | Week 43             | [Introduction to Linear Algebra](/MSE1_26/07_Introduction_to_Linear_Algebra/) |
 | 08      | Week 44             | [Vectors and Matrices](/MSE1_26/08_Vectors_and_Matrices/) |
 | 09      | Week 45             | [Matrix Algebra and Determinants](/MSE1_26/09_Matrix_Algebra_and_Determinants/) |
 | 10      | Week 46             | [Differentiation of Simple Functions](/MSE1_26/10_Differentiation_of_Simple_Functions/) |

@@ -62,4 +62,4 @@ The course focuses on the application of mathematical concepts and methods in so
 
 ---
 
-The Wiseflow code for all flows used during the course is always 0000. However, this is not the code for the exam in January.
+The Wiseflow code for all flows used during the course is always 0000. However, this is not the code for the exam in December.

@@ -45,7 +45,7 @@
     Please see the "Exam" section in the menu at the top for detailed information about the exam.
 
 ??? question "When are the exam and re-exam held?"
-    The exam is typically held in January, and the re-exam is usually in early February. Feel free to contact [Student Services](mailto: studieservice.hs@via.dk) for more information.
+    The exam is held in December, and the re-exam is typically in late January or early February. Feel free to contact [Student Services](mailto: studieservice.hs@via.dk) for the exact dates.
 
 ??? question "What is the grading scale for the course?"
     The grading scale for the course is the 7-point scale.

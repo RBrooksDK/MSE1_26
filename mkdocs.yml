@@ -139,7 +139,7 @@ nav:
   - Home: README.md
   - Sessions:
     - Sessions/README.md
-    - 01 Basic Arithmetic and Functions: 01_Basic_Arithmetic_and_Functions/README.md
+    - 01 Functions: 01_Functions/README.md
     - 02 Numeral Systems: 02_Numeral_Systems/README.md
     - 03 Set Theory: 03_Set_Theory/README.md
     - 04 Combinatorics and Probability Theory: 04_Combinatorics_and_Probability_Theory/README.md
