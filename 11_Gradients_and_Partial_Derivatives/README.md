@@ -41,7 +41,7 @@ Brooks: [Section 10.5. + Chapter 11](https://drive.google.com/file/d/1P9eidJb5qt
 
 ### Resources
 
-[Session Resources]()
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/frbj_viauc_dk/IgDnkFsvBsyqQLOHBETOgY1IAQlXM2CikHH4SRRyMzUkjaY?e=hVDmVm)
 
 
 <hr/>

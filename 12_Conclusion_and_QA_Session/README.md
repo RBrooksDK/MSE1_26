@@ -37,4 +37,4 @@ Brooks: [Chapter 12](https://docs.google.com/viewer?url=https://raw.githubuserco
 
 ### Resources
 
-[Session Resources]()
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/frbj_viauc_dk/IgDnkFsvBsyqQLOHBETOgY1IAQlXM2CikHH4SRRyMzUkjaY?e=hVDmVm)

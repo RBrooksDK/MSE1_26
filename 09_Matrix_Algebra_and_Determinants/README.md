@@ -43,7 +43,7 @@ Some of the exercises may require you to use Python. You may also need to instal
 
 ### Resources
 
-[Session Resources]()
+[Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/frbj_viauc_dk/IgDnkFsvBsyqQLOHBETOgY1IAQlXM2CikHH4SRRyMzUkjaY?e=hVDmVm)
 
 <hr/>
 
