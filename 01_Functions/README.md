@@ -55,6 +55,116 @@ Review the key concepts above and work through the Math Kickstarter material on 
 
 #### Exercise 1:
 
+Determine the domain and range for each of the real functions below. It is a good idea to plot the functions using software (e.g., Geogebra, WolframAlpha, etc.):
+
+1. $\ f(x)=\frac{1}{x-7}$
+
+    ??? answer "&nbsp;"
+
+        Domain: $\mathbb{R} \backslash\{7\}$;
+
+        Range: $\mathbb{R} \backslash\{0\}$
+
+2. $\ f(x)=\sqrt{x+3}$
+
+    ??? answer "&nbsp;"
+
+        Domain: $\mathbb{R}_ {\geq-3}$;
+
+        Range: $\mathbb{R}_ {\geq 0}$
+
+#### Exercise 2:
+
+Find each of the following composite functions:
+
+1. $\ g \circ f$ when $f(x)=3 x+1$ and $g(x)=x^2$.
+
+    ??? answer "&nbsp;"
+
+        $(g \circ f)(x)=9 x^2+1+6 x$
+
+2. $f \circ g$ when $f(x)=x^2+1$ and $g(x)=\frac{1}{x}$.
+
+    ??? answer "&nbsp;"
+
+        $(f \circ g)(x)=\frac{1}{x^2}+1$
+
+3. $\ g \circ f$ when $f$ and $g$ are defined as in part b.
+
+    ??? answer "&nbsp;"
+
+        $(g \circ f)(x)=\frac{1}{x^2+1}$
+
+#### Exercise 3:
+
+Find the inverse function:
+
+1. $\ f(x)=\frac{6}{5-x}$
+
+    ??? answer "&nbsp;"
+
+        $f^{-1}(x)=5-\frac{6}{x}$
+
+2. $\ f(x)=-\ln (1-2 x)+1$
+
+    ??? answer "&nbsp;"
+
+        $f^{-1}(x)=\left(1-e^{1-x}\right) / 2$
+
+3. $\ f(x)=2 \cdot 10^{3 x}-1$
+
+    ??? answer "&nbsp;"
+
+        $f^{-1}(x)=\frac{\log \left(\frac{x+1}{2}\right)}{3}$
+
+#### Exercise 4:
+
+A bacterial culture starts with 1000 bacteria at time $t=0$, and the number doubles every 40 minutes.
+
+1. Find a functional expression for the number of bacteria at time $t$ (measured in minutes).
+
+    ??? answer "&nbsp;"
+
+        $f(t)=1000 \cdot 2^{t / 40}$
+
+2. Find the number of bacteria after one hour.
+
+    ??? answer "&nbsp;"
+
+        $f(60) \approx 2828$
+
+3. After how many minutes will there be 50000 bacteria?
+
+    ??? answer "&nbsp;"
+
+        approx. 225.75 minutes
+
+#### Exercise 5:
+
+Determine whether the given function is invertible by checking if it is injective (one-to-one) and surjective (onto). If you conclude that the function is invertible, determine it's inverse function.
+
+1. $f: R \backslash\{1\} \rightarrow R \backslash\{0\}, f(x)=\frac{2}{x-1}$
+
+    ??? answer "&nbsp;"
+
+        The function is invertible.
+
+        $f^{-1}(x)=\frac{2}{x}+1$
+
+2. $f: R \backslash\{3\} \rightarrow R, f(x)=\frac{x+1}{x-3}$
+
+    ??? answer "&nbsp;"
+
+        The function is not surjective, thus it is not invertible.
+
+3. $f: R \rightarrow R, f(x)=x^3-3 x$
+
+    ??? answer "&nbsp;"
+
+        The function is not injective, thus it is not invertible.
+
+#### Exercise 6:
+
 Solve the following equations:
 
 1. $\ 2-\frac{4 x+3}{x+x^2}=\frac{2 x}{x+1}-\frac{5}{x}$
@@ -73,7 +183,7 @@ Solve the following equations:
     5. $x = -4$
     6. $x = 5$
 
-#### Exercise 2:
+#### Exercise 7:
 
 According to Einstein's theory of relativity, the mass of a particle is given by:
 
@@ -97,113 +207,6 @@ $c$ is the speed of light in a vacuum.
     ??? answer "&nbsp;"
 
         $v=0.943 c$
-
-#### Exercise 3
-Determine the domain and range for each of the real functions below. It is a good idea to plot the functions using software (e.g., Geogebra, WolframAlpha, etc.):
-
-1. $\ f(x)=\frac{1}{x-7}$
-
-    ??? answer "&nbsp;"
-
-        Domain: $\mathbb{R} \backslash\{7\}$;
-
-        Range: $\mathbb{R} \backslash\{0\}$
-
-2. $\ f(x)=\sqrt{x+3}$
-
-    ??? answer "&nbsp;"
-
-        Domain: $\mathbb{R}_ {\geq-3}$;
-
-        Range: $\mathbb{R}_ {\geq 0}$
-
-#### Exercise 4
-Find each of the following composite functions:
-
-1. $\ g \circ f$ when $f(x)=3 x+1$ and $g(x)=x^2$.
-
-    ??? answer "&nbsp;"
-
-        $(g \circ f)(x)=9 x^2+1+6 x$
-
-2. $f \circ g$ when $f(x)=x^2+1$ and $g(x)=\frac{1}{x}$.
-
-    ??? answer "&nbsp;"
-
-        $(f \circ g)(x)=\frac{1}{x^2}+1$
-
-3. $\ g \circ f$ when $f$ and $g$ are defined as in part b.
-
-    ??? answer "&nbsp;"
-
-        $(g \circ f)(x)=\frac{1}{x^2+1}$
-
-#### Exercise 5
-Find the inverse function:
-
-1. $\ f(x)=\frac{6}{5-x}$
-
-    ??? answer "&nbsp;"
-
-        $f^{-1}(x)=5-\frac{6}{x}$
-
-2. $\ f(x)=-\ln (1-2 x)+1$
-
-    ??? answer "&nbsp;"
-
-        $f^{-1}(x)=\left(1-e^{1-x}\right) / 2$
-
-3. $\ f(x)=2 \cdot 10^{3 x}-1$
-
-    ??? answer "&nbsp;"
-
-        $f^{-1}(x)=\frac{\log \left(\frac{x+1}{2}\right)}{3}$
-
-#### Exercise 6
-
-A bacterial culture starts with 1000 bacteria at time $t=0$, and the number doubles every 40 minutes.
-
-1. Find a functional expression for the number of bacteria at time $t$ (measured in minutes).
-
-    ??? answer "&nbsp;"
-
-        $f(t)=1000 \cdot 2^{t / 40}$
-
-2. Find the number of bacteria after one hour.
-
-    ??? answer "&nbsp;"
-
-        $f(60) \approx 2828$
-
-3. After how many minutes will there be 50000 bacteria?
-
-    ??? answer "&nbsp;"
-
-        approx. 225.75 minutes
-
-#### Exercise 7
-
-Determine whether the given function is invertible by checking if it is injective (one-to-one) and surjective (onto). If you conclude that the function is invertible, determine it's inverse function.
-
-1. $f: R \backslash\{1\} \rightarrow R \backslash\{0\}, f(x)=\frac{2}{x-1}$
-
-    ??? answer "&nbsp;"
-
-        The function is invertible.
-
-        $f^{-1}(x)=\frac{2}{x}+1$
-
-2. $f: R \backslash\{3\} \rightarrow R, f(x)=\frac{x+1}{x-3}$
-
-    ??? answer "&nbsp;"
-
-        The function is not surjective, thus it is not invertible.
-
-3. $f: R \rightarrow R, f(x)=x^3-3 x$
-
-    ??? answer "&nbsp;"
-
-        The function is not injective, thus it is not invertible.
 
 ### Challenge Exercises
 
