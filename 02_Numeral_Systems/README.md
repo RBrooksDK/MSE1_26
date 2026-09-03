@@ -18,7 +18,7 @@ tags:
 
 <h1 align="center">Number Systems</h1>
 
-In this session, we delve into number systems and their fundamental importance in software development. We begin by exploring the world of numbers, from basic number theory to the various number systems that form the foundation of modern computing. We focus particularly on binary, decimal, and hexadecimal notation, which are essential in programming and computer architecture.
+In this session, we look at number systems and their fundamental importance in software development. We begin by exploring the world of numbers, from basic number theory to the various number systems that form the foundation of modern computing. We focus particularly on binary, decimal, and hexadecimal notation, which are essential in programming and computer architecture.
 
 The session includes a thorough review of number conversion between different systems, binary addition and multiplication, as well as positional notation. Special emphasis is placed on binary operations and hexadecimal notation, as these play a crucial role in software development, data representation, and digital electronics. The exercises include conversions between binary, decimal, octal, and hexadecimal, binary arithmetic, and more advanced applications such as base32 encoding and information storage.
 

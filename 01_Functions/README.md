@@ -54,7 +54,6 @@ Review the key concepts above and work through the Math Kickstarter material on 
 ### Exercises
 
 #### Exercise 1:
-
 Determine the domain and range for each of the real functions below. It is a good idea to plot the functions using software (e.g., Geogebra, WolframAlpha, etc.):
 
 1. $\ f(x)=\frac{1}{x-7}$
@@ -96,7 +95,6 @@ Find each of the following composite functions:
         $(g \circ f)(x)=\frac{1}{x^2+1}$
 
 #### Exercise 3:
-
 Find the inverse function:
 
 1. $\ f(x)=\frac{6}{5-x}$
