@@ -38,7 +38,8 @@ The session explains how matrices represent and solve linear systems efficiently
 
 ### Session Preparation:
 
-Brooks: [Chapter 7](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) ([Dansk version](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf))
+[Chapter 7](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) (English)<br>
+[Kapitel 7](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf) (Dansk)
 
 Some of the exercises may require you to use Python. You may also need to install the `numpy` and `sympy` libraries if you haven't already.
 

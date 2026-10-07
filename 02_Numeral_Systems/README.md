@@ -40,7 +40,8 @@ The session includes a thorough review of number conversion between different sy
 
 ### Session Preparation:
 
-Brooks: [Chapter 2](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) ([Dansk version](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf)).
+[Chapter 2](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) (English)<br>
+[Kapitel 2](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf) (Dansk)
 
 ### Resources
 

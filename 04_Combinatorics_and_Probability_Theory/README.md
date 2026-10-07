@@ -41,7 +41,8 @@ We also introduce core probability concepts: experiments and sample spaces, prob
 
 ### Session Preparation:
 
-Brooks: [Chapter 4](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) ([Dansk version](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf))
+[Chapter 4](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) (English)<br>
+[Kapitel 4](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf) (Dansk)
 
 ### Resources
 

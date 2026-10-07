@@ -36,7 +36,8 @@ We also work with the intersection of events, contingency tables for organising 
 
 ### Session Preparation
 
-Brooks: [Chapter 5](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) ([Dansk version](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf))
+[Chapter 5](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) (English)<br>
+[Kapitel 5](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf) (Dansk)
 
 ### Resources
 

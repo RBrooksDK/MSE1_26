@@ -43,7 +43,8 @@ The session includes a thorough review of set operations, Venn diagrams, and car
 
 ### Session Preparation:
 
-Brooks: [Chapter 3](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) ([Dansk version](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf)).
+[Chapter 3](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) (English)<br>
+[Kapitel 3](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf) (Dansk)
 
 ### Resources
 

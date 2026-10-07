@@ -41,7 +41,8 @@ Several standard function types appear throughout the course: linear, quadratic,
 
 ### Session Preparation:
 
-Brooks: [Chapter 1](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) ([Dansk version](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf)).
+[Chapter 1](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) (English)<br>
+[Kapitel 1](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf) (Dansk)
 
 Review the key concepts above and work through the Math Kickstarter material on [Basic Arithmetic and Equations](https://rbrooksdk.github.io/math_kickstarter/basic_arithmetic_and_equations/) if you need to refresh your arithmetic skills before the exercises.
 

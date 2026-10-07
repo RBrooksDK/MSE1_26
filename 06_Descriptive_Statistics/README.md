@@ -48,7 +48,8 @@ The session covers variance, standard deviation, quartiles, and visual summaries
 
 ### Session Preparation:
 
-Brooks: [Chapter 6](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) ([Dansk version](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf))
+[Chapter 6](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) (English)<br>
+[Kapitel 6](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf) (Dansk)
 
 Some of the exercises may require you to use Python. You may also need to install the `pandas` and `matplotlib` libraries if you haven't already.
 
