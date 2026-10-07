@@ -4,8 +4,8 @@ Below are some recommended online resources that can help you with the course ma
 ## Textbook - Mathematics For Software Engineering
 The course is based on the book "Mathematics for Software Engineering". The latest versions of the book are available here:
 
-[MSE Textbook](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) (English)<br>
-[MSE-lærebog](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf) (Dansk)
+[MSE Textbook](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/main/main.pdf) (English)<br>
+[MSE-lærebog](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2_da/main/main.pdf) (Dansk)
 
 This book gets updated periodically, both adding new topics and improving existing content, so it's a good idea to check for updates regularly.
 

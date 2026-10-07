@@ -37,8 +37,8 @@ We also introduce local extrema, saddle points, and the second-derivative test, 
 
 ### Session Preparation:
 
-[Section 10.5 + Chapter 11](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) (English)<br>
-[Afsnit 10.5 + kapitel 11](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf) (Dansk)
+[Section 10.5 + Chapter 11](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/main/main.pdf) (English)<br>
+[Afsnit 10.5 + kapitel 11](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2_da/main/main.pdf) (Dansk)
 
 You should begin reading before class as it will aid your understanding as the topics get more complex
 
