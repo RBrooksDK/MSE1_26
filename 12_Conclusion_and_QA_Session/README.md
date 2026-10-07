@@ -33,7 +33,7 @@ Use this session to revisit areas where you feel less confident, connect ideas f
 
 ### Session Preparation:
 
-Brooks: [Chapter 12](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/master/main.pdf)
+Brooks: [Chapter 12](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) ([Dansk version](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf))
 
 ### Resources
 

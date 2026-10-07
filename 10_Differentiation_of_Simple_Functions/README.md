@@ -40,7 +40,7 @@ The session covers differentiation rules including the chain, product, and quoti
 
 ### Session Preparation
 
-Brooks: [Chapter 10](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/master/main.pdf)
+Brooks: [Chapter 10](https://github.com/RBrooksDK/MSE_book_v2/blob/main/main.pdf) ([Dansk version](https://github.com/RBrooksDK/MSE_book_v2_da/blob/main/main.pdf))
 
 Some of the exercises may require you to use Python. You may also need to install the `numpy` and `sympy` libraries if you haven't already.
 
