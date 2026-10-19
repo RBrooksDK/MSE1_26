@@ -47,6 +47,8 @@ Some of the exercises may require you to use Python. You may also need to instal
 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/frbj_viauc_dk/IgDnkFsvBsyqQLOHBETOgY1IAQlXM2CikHH4SRRyMzUkjaY?e=hVDmVm)
 
+[Session notes](https://drive.google.com/file/d/1sFD_H6nlzWgVE7qw6pMjlOscuSIB8qNv/view?usp=sharing)
+
 <hr/>
 
 ### Exercises
