@@ -5,6 +5,8 @@ site_author: Richard Brooks
 site_description: Course page for Mathematics for Software Engineering at VIA University College
 docs_dir: .
 site_dir: _site
+exclude_docs: |
+  CLAUDE.md
 # Repository information
 repo_name: Github
 repo_url: https://github.com/RBrooksDK/MSE1_26
