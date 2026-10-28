@@ -17,4 +17,3 @@ Kursusside (engelsk) for MSE1. Bogen er `C:\GitHub\MSE_book_v2` (engelsk) og `C:
 
 - Ingen `mkdocs-jupyter`.
 - CI (`ci.yml`) bruger GitHub Pages-actions (`upload-pages-artifact`/`deploy-pages`) i stedet for `gh-deploy`.
-- Ingen lokal `.venv`; brug den globale Python-installation.
