@@ -17,3 +17,14 @@ Kursusside (engelsk) for MSE1. Bogen er `C:\GitHub\MSE_book_v2` (engelsk) og `C:
 
 - Ingen `mkdocs-jupyter`.
 - CI (`ci.yml`) bruger GitHub Pages-actions (`upload-pages-artifact`/`deploy-pages`) i stedet for `gh-deploy`.
+
+## Status og kilder (2026)
+
+- Richard Brooks overtog undervisningen fra session 7. Sessionerne 01–08 er opdaterede.
+- Sessionerne 09–12 indeholder gammelt materiale, indtil de er opdateret. Brug det som inspiration, ikke som kilde til notation eller indhold.
+- Session notes ligger på Google Drive i mappen MSE1_26. Egne noter findes fra session 7. Materialet i MSE_9–MSE_11 er gammelt materiale fra det danske hold og trainee.
+- MSE_book_v2_da er den danske udgave af bogen. Den må læses for at holde links og kapitelhenvisninger konsistente, men rettes kun, når det er aftalt.
+
+## Struktur har forrang
+
+Denne fil har forrang for generiske skills (fx course-session). Lav ikke tutorials eller notebooks pr. session.
