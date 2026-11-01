@@ -12,6 +12,7 @@ Kursusside (engelsk) for MSE1. Bogen er `C:\GitHub\MSE_book_v2` (engelsk) og `C:
 - Sessioner `01_Functions` til `12_Conclusion_and_QA_Session`. Hver session er én `README.md` med Key Concepts, Session Preparation (bogkapitel på engelsk og dansk), Resources, Exercises (`#### Exercise N: Titel`) og Challenge Exercises.
 - Figurer til opgaver og løsninger ligger i sessionens `src/`.
 - Ingen Tutorial-filer eller notebooks pr. session.
+- Sessionsnoter i GoodNotes-format bygges i `tools/goodnotes/` (git-ignoreret, udelukket fra mkdocs) efter `C:\GitHub\claude-setup\session-notes-metode.md`. De er ikke omfattet af forbuddet ovenfor.
 
 ## Konfiguration, der afviger fra den globale opsætning
 
