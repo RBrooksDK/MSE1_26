@@ -7,6 +7,7 @@ docs_dir: .
 site_dir: _site
 exclude_docs: |
   CLAUDE.md
+  tools/
 # Repository information
 repo_name: Github
 repo_url: https://github.com/RBrooksDK/MSE1_26
