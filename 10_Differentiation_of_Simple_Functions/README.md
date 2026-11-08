@@ -192,5 +192,260 @@ Acceleration is the rate of change of velocity with respect to time.
 
         Acceleration at $t = 3$ seconds: $a(3) = 10$ m/s²
 
+### Challenge Exercises
+
+#### Challenge Exercise 1: Combining Differentiation Rules
+
+Given the function
+
+\(
+f(x)=\frac{x^2\sqrt{3x+1}}{(x-2)^3}.
+\)
+
+1. Determine the domain of the function.
+
+    ??? answer "&nbsp;"
+
+        \(
+        D_f=\left[-\frac13,\infty\right)\setminus\{2\}.
+        \)
+
+2. Determine the range of the function. Hint: What values does the function approach as \(x\) approaches the boundaries of its domain?
+
+    ??? answer "&nbsp;"
+
+        \(
+        V_f=\mathbb{R}.
+        \)
+
+3. Find \(f'(x)\).
+
+    ??? answer "&nbsp;"
+
+        \(
+        f'(x)
+        =
+        \frac{
+        \left(
+        2x\sqrt{3x+1}
+        +
+        \frac{3x^2}{2\sqrt{3x+1}}
+        \right)(x-2)^3
+        -
+        3x^2\sqrt{3x+1}(x-2)^2
+        }
+        {(x-2)^6}.
+        \)
+
+        An equivalent simplified form is
+
+        \(
+        f'(x)
+        =
+        \frac{
+        \left(
+        2x\sqrt{3x+1}
+        +
+        \frac{3x^2}{2\sqrt{3x+1}}
+        \right)(x-2)
+        -
+        3x^2\sqrt{3x+1}
+        }
+        {(x-2)^4}.
+        \)
+
+4. Calculate \(f'(1)\).
+
+    ??? answer "&nbsp;"
+
+        \(
+        f'(1)=-\frac{43}{4}.
+        \)
+
+#### Challenge Exercise 2: The Derivative from First Principles
+
+Find the derivative of each function using the definition
+
+\(
+f'(x)
+=
+\lim_{h\to0}
+\frac{f(x+h)-f(x)}{h}.
+\)
+
+You are not allowed to use differentiation rules.
+
+1. 
+
+    \(
+    f(x)=\frac{1}{x+1}
+    \)
+
+    ??? answer "&nbsp;"
+
+        \(
+        f'(x)=-\frac{1}{(x+1)^2}.
+        \)
+
+2. 
+
+    \(
+    f(x)=\sqrt{x}
+    \)
+
+    Hint: Use the difference of two squares identity:
+
+    \(
+    (a+b)(a-b)=a^2-b^2.
+    \)
+
+    ??? answer "&nbsp;"
+
+        \(
+        f'(x)=\frac{1}{2\sqrt{x}}.
+        \)
+
+#### Challenge Exercise 3: L'Hôpital's Rule
+
+For some limits, direct substitution gives the form \(\frac{0}{0}\) or \(\frac{\infty}{\infty}\). These are called indeterminate forms.
+
+If both the numerator and denominator approach \(0\), or both approach infinity, the limit can often be found by differentiating the numerator and denominator separately.
+
+L'Hôpital's rule states that
+
+\[
+\lim_{x\to a}\frac{f(x)}{g(x)}
+=
+\lim_{x\to a}\frac{f'(x)}{g'(x)},
+\]
+
+provided that the limit on the right-hand side exists and the original fraction has the form \(\frac{0}{0}\) or \(\frac{\infty}{\infty}\).
+
+Use L'Hôpital's rule to evaluate the following limits:
+
+1. 
+
+    \(
+    \lim_{x\to0}\frac{e^{2x}-1}{x}
+    \)
+
+    ??? answer "&nbsp;"
+
+        \(
+        \lim_{x\to0}\frac{e^{2x}-1}{x}=2.
+        \)
+
+2. 
+
+    \(
+    \lim_{x\to0}\frac{\sin(3x)}{x}
+    \)
+
+    ??? answer "&nbsp;"
+
+        \(
+        \lim_{x\to0}\frac{\sin(3x)}{x}=3.
+        \)
+
+3. 
+
+    \(
+    \lim_{x\to\infty}\frac{\ln(x)}{x}
+    \)
+
+    ??? answer "&nbsp;"
+
+        \(
+        \lim_{x\to\infty}\frac{\ln(x)}{x}=0.
+        \)
+
+#### Challenge Exercise 4: Optimization
+
+A manufacturer of energy drinks wants to minimize the material costs of producing their cans.
+
+Assume that a can can be modelled as a closed cylinder with radius \(r\) and height \(h\). The can must have a volume of \(33\) cl, corresponding to \(330\text{ cm}^3\).
+
+The material used for the cylindrical side of the can is twice as expensive per \(\text{cm}^2\) as the material used for the top and bottom.
+
+1. Introduce suitable variables and formulate an expression for the total material cost. You may use relative costs, where the material for the top and bottom costs 1 per \(\text{cm}^2\), while the material for the side costs 2 per \(\text{cm}^2\).
+
+    ??? answer "&nbsp;"
+        \[
+        C(r,h)=4\pi rh+2\pi r^2
+        \]
+
+2. Use the volume constraint to rewrite the cost function as a function of the radius only.
+
+    ??? answer "&nbsp;"
+        \[
+        C(r)=\frac{1320}{r}+2\pi r^2
+        \]
+
+3. Determine the radius that minimizes the material cost.
+
+    ??? answer "&nbsp;"
+        \[
+        r=\sqrt[3]{\frac{330}{\pi}}
+        \approx 4.72\text{ cm}
+        \]
+
+4. Determine the corresponding height of the can.
+
+    ??? answer "&nbsp;"
+        \[
+        h\approx 4.72\text{ cm}
+        \]
+
+5. Compare your result with the case where all materials have the same cost per \(\text{cm}^2\). Explain why the optimal dimensions are different.
+
+    ??? answer "&nbsp;"
+        If all materials have the same cost, the optimal dimensions satisfy \(h=2r\).
+
+        When the side material is twice as expensive, the optimal dimensions satisfy \(h=r\).
 
 
+#### Challenge Exercise 5: Differential Equations
+
+1. Find the function \(f(x)\) given that
+
+    \(
+    f'(x)=4x^3-6x^2+2x-1
+    \)
+
+    and
+
+    \(
+    f(1)=5.
+    \)
+
+    ??? answer "&nbsp;"
+
+        \(
+        f(x)=x^4-2x^3+x^2-x+6.
+        \)
+
+    A differential equation is an equation involving an unknown function and its derivatives. Differential equations are used, among other things, to describe population growth, cooling processes, electrical circuits and motion in physics.
+
+    Consider the differential equation
+
+    \(
+    y'=2xy.
+    \)
+
+2. Determine whether the function \(g(x)=e^{x^2}\) is a solution to the differential equation.
+
+    ??? answer "&nbsp;"
+
+        Yes, \(g\) is a solution.
+
+3. Determine whether the function \(h(x)=2e^{x^2}\) is a solution to the differential equation.
+
+    ??? answer "&nbsp;"
+
+        Yes, \(h\) is a solution.
+
+4. Determine whether the function \(k(x)=e^{2x}\) is a solution to the differential equation.
+
+    ??? answer "&nbsp;"
+
+        No, \(k\) is not a solution.
