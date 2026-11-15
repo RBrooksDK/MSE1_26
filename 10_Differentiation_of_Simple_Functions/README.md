@@ -406,6 +406,8 @@ The material used for the cylindrical side of the can is twice as expensive per 
 
 #### Challenge Exercise 5: Differential Equations
 
+Part A
+
 1. Find the function \(f(x)\) given that
 
     \(
@@ -424,27 +426,29 @@ The material used for the cylindrical side of the can is twice as expensive per 
         f(x)=x^4-2x^3+x^2-x+6.
         \)
 
-    A differential equation is an equation involving an unknown function and its derivatives. Differential equations are used, among other things, to describe population growth, cooling processes, electrical circuits and motion in physics.
+Part B
 
-    Consider the differential equation
+A differential equation is an equation involving an unknown function and its derivatives. Differential equations are used, among other things, to describe population growth, cooling processes, electrical circuits and motion in physics.
 
-    \(
-    y'=2xy.
-    \)
+Consider the differential equation
 
-2. Determine whether the function \(g(x)=e^{x^2}\) is a solution to the differential equation.
+\(
+y'=2xy.
+\)
+
+1. Determine whether the function \(g(x)=e^{x^2}\) is a solution to the differential equation.
 
     ??? answer "&nbsp;"
 
         Yes, \(g\) is a solution.
 
-3. Determine whether the function \(h(x)=2e^{x^2}\) is a solution to the differential equation.
+2. Determine whether the function \(h(x)=2e^{x^2}\) is a solution to the differential equation.
 
     ??? answer "&nbsp;"
 
         Yes, \(h\) is a solution.
 
-4. Determine whether the function \(k(x)=e^{2x}\) is a solution to the differential equation.
+3. Determine whether the function \(k(x)=e^{2x}\) is a solution to the differential equation.
 
     ??? answer "&nbsp;"
 
