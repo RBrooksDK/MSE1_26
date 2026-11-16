@@ -46,6 +46,10 @@ You should begin reading before class as it will aid your understanding as the t
 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/frbj_viauc_dk/IgDnkFsvBsyqQLOHBETOgY1IAQlXM2CikHH4SRRyMzUkjaY?e=hVDmVm)
 
+[Session notes](https://drive.google.com/file/d/1e8N4UQF7LQYU9fjIsywOcv3NZ54d7jU_/view?usp=sharing)
+
+[Example notebook](https://viaucdk-my.sharepoint.com/:u:/g/personal/rib_viauc_dk/IQBftDSeJX71Qq0G2fZyLeyFATfW7uTi_3Q8pjWrSbNc4Z4?e=Vlx16V)
+
 
 <hr/>
 
