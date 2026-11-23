@@ -38,3 +38,5 @@ There is no new reading for this session. Revisit the chapters (1-11) for the to
 ### Resources
 
 [Session Resources](https://viaucdk-my.sharepoint.com/:f:/g/personal/frbj_viauc_dk/IgDnkFsvBsyqQLOHBETOgY1IAQlXM2CikHH4SRRyMzUkjaY?e=hVDmVm)
+
+[Session notes](https://drive.google.com/file/d/19054VdXwSR8TNLXuTqmNnKmJuTW12vID/view?usp=sharing)
