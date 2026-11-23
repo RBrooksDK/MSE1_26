@@ -73,7 +73,7 @@
     The course book is not mandatory, but I recommend finding resources that can help you understand the material. The course book is a good resource, but there are many other resources available online. See also the Online Resources section in the menu at the top.
 
 ??? question "Is Python mandatory?"
-    Python is mandatory for the course. You will need Python to complete the exercises during tutorials. The course does not assume prior knowledge of Python, and it will be thoroughly introduced. We will help install Python and the necessary libraries during the introductory days.
+    Python is mandatory for the course. You will need Python to complete the exercises during tutorials. The course does not assume prior knowledge of Python, and it will be thoroughly introduced. We will help install Python and the necessary libraries during the introductory days. Note that Python is not available at the exam: all exam assignments are solved by hand or with a calculator.
 
 ??? question "Is Jupyter Notebook mandatory?"
     Jupyter Notebook is mandatory for the course. You will need Jupyter Notebook to complete the exercises during tutorials. You can install a plugin in VSCode to run Jupyter Notebooks. We will help install Jupyter Notebook and the necessary libraries during the introductory days.

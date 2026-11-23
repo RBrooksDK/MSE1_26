@@ -23,6 +23,7 @@ All answers must be submitted in WiseFlow before the exam ends.
 ### Exam aids
 
 - Students are permitted to bring their own calculators to the exam.
+- Python and other programming tools are not available during the exam. All assignments are solved by hand or with a calculator.
 - Students will have access to [https://calculator-1.com/scientific/](https://calculator-1.com/scientific/) during the exam.
 - The exam is conducted in the Flowlock environment, allowing students to use printed notes, books, and access local PDF files.
 - Internet access is strictly limited to WiseFlow during the exam.

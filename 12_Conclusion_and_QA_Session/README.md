@@ -33,8 +33,7 @@ Use this session to revisit areas where you feel less confident, connect ideas f
 
 ### Session Preparation:
 
-[Chapter 12](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2/main/main.pdf) (English)<br>
-[Kapitel 12](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/RBrooksDK/MSE_book_v2_da/main/main.pdf) (Dansk)
+There is no new reading for this session. Revisit the chapters (1-11) for the topics where you feel less confident, and work through the exercises again by hand: Python is not available at the exam.
 
 ### Resources
 
